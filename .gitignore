@@ -1,0 +1,5 @@
+# 排除 data/audios 目录下的所有文件
+data/audios/
+
+# 但保留 data 目录下的其他文件（如 CSV 文件）
+!data/*.csv
