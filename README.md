@@ -5,6 +5,8 @@
 
 *Can AI hear where a sound comes from? Let's find out!*
 
+**🎮 [Try it Online on Hugging Face Spaces](https://huggingface.co/spaces/RisingZhang/AudioGeoLocalization)** - Experience audio geo-localization interactively!
+
 ---
 
 ## 🌟 What is AGL1K?
@@ -133,6 +135,8 @@ Experience the challenge of audio geo-localization with these representative cas
 ---
 
 ## 🚀 Quick Start
+
+**🎮 [Try the Interactive Demo](https://huggingface.co/spaces/RisingZhang/AudioGeoLocalization)** - Experience audio geo-localization without installation!
 
 ### Installation
 
