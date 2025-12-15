@@ -141,6 +141,25 @@ git clone https://github.com/your-username/AGL1K.git
 cd AGL1K
 ```
 
+### Download Audio Data
+
+**⚠️ Important:** Before running the benchmark, you need to download the audio files:
+
+1. Download the audio data from: https://bhpan.buaa.edu.cn/link/AA0667E919A78342A09800447948D5175E
+2. Extract all contents to the `data/audios/` folder
+
+```bash
+# After downloading and extracting, your directory structure should look like:
+# data/
+#   ├── audios/
+#   │   ├── audio_file_1.mp3
+#   │   ├── audio_file_2.mp3
+#   │   └── ...
+#   └── geoLocalization_schema.csv
+```
+
+**Note:** The `data/audios/` folder is excluded from the git repository due to file size. You must download it separately to run the benchmark.
+
 ### Running Evaluation
 
 ```bash
