@@ -19,6 +19,7 @@
 
 ---
 
+
 ## 🗺️ Dataset Overview
 
 
@@ -147,7 +148,8 @@ cd AGL1K
 
 **⚠️ Important:** Before running the benchmark, you need to download the audio files:
 
-1. Download the audio data from: https://bhpan.buaa.edu.cn/link/AA0667E919A78342A09800447948D5175E
+1. Download the audio data use data/download_audio.py
+
 2. Extract all contents to the `data/audios/` folder
 
 ```bash
